@@ -1,0 +1,1766 @@
+[
+  {
+    "country": "Afghanistan",
+    "ioc": "AFG",
+    "fifa": "AFG",
+    "alpha3": "AFG",
+    "alpha2": "AF"
+  },
+  {
+    "country": "Åland Islands",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "ALA",
+    "alpha2": "AX"
+  },
+  {
+    "country": "Albania",
+    "ioc": "ALB",
+    "fifa": "ALB",
+    "alpha3": "ALB",
+    "alpha2": "AL"
+  },
+  {
+    "country": "Algeria",
+    "ioc": "ALG",
+    "fifa": "ALG",
+    "alpha3": "DZA",
+    "alpha2": "DZ"
+  },
+  {
+    "country": "American Samoa",
+    "ioc": "ASA",
+    "fifa": "ASA",
+    "alpha3": "ASM",
+    "alpha2": "AS"
+  },
+  {
+    "country": "Andorra",
+    "ioc": "AND",
+    "fifa": "AND",
+    "alpha3": "AND",
+    "alpha2": "AD"
+  },
+  {
+    "country": "Angola",
+    "ioc": "ANG",
+    "fifa": "ANG",
+    "alpha3": "AGO",
+    "alpha2": "AO"
+  },
+  {
+    "country": "Anguilla",
+    "ioc": "",
+    "fifa": "AIA",
+    "alpha3": "AIA",
+    "alpha2": "AI"
+  },
+  {
+    "country": "Antarctica",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "ATA",
+    "alpha2": "AQ"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "ioc": "ANT",
+    "fifa": "ATG",
+    "alpha3": "ATG",
+    "alpha2": "AG"
+  },
+  {
+    "country": "Argentina",
+    "ioc": "ARG",
+    "fifa": "ARG",
+    "alpha3": "ARG",
+    "alpha2": "AR"
+  },
+  {
+    "country": "Armenia",
+    "ioc": "ARM",
+    "fifa": "ARM",
+    "alpha3": "ARM",
+    "alpha2": "AM"
+  },
+  {
+    "country": "Aruba",
+    "ioc": "ARU",
+    "fifa": "ARU",
+    "alpha3": "ABW",
+    "alpha2": "AW"
+  },
+  {
+    "country": "Australia",
+    "ioc": "AUS",
+    "fifa": "AUS",
+    "alpha3": "AUS",
+    "alpha2": "AU"
+  },
+  {
+    "country": "Austria",
+    "ioc": "AUT",
+    "fifa": "AUT",
+    "alpha3": "AUT",
+    "alpha2": "AT"
+  },
+  {
+    "country": "Azerbaijan",
+    "ioc": "AZE",
+    "fifa": "AZE",
+    "alpha3": "AZE",
+    "alpha2": "AZ"
+  },
+  {
+    "country": "The Bahamas",
+    "ioc": "BAH",
+    "fifa": "BAH",
+    "alpha3": "BHS",
+    "alpha2": "BS"
+  },
+  {
+    "country": "Bahrain",
+    "ioc": "BRN",
+    "fifa": "BHR",
+    "alpha3": "BHR",
+    "alpha2": "BH"
+  },
+  {
+    "country": "Bangladesh",
+    "ioc": "BAN",
+    "fifa": "BAN",
+    "alpha3": "BGD",
+    "alpha2": "BD"
+  },
+  {
+    "country": "Barbados",
+    "ioc": "BAR",
+    "fifa": "BRB",
+    "alpha3": "BRB",
+    "alpha2": "BB"
+  },
+  {
+    "country": "Belarus",
+    "ioc": "BLR",
+    "fifa": "BLR",
+    "alpha3": "BLR",
+    "alpha2": "BY"
+  },
+  {
+    "country": "Belgium",
+    "ioc": "BEL",
+    "fifa": "BEL",
+    "alpha3": "BEL",
+    "alpha2": "BE"
+  },
+  {
+    "country": "Belize",
+    "ioc": "BIZ",
+    "fifa": "BLZ",
+    "alpha3": "BLZ",
+    "alpha2": "BZ"
+  },
+  {
+    "country": "Benin",
+    "ioc": "BEN",
+    "fifa": "BEN",
+    "alpha3": "BEN",
+    "alpha2": "BJ"
+  },
+  {
+    "country": "Bermuda",
+    "ioc": "BER",
+    "fifa": "BER",
+    "alpha3": "BMU",
+    "alpha2": "BM"
+  },
+  {
+    "country": "Bhutan",
+    "ioc": "BHU",
+    "fifa": "BHU",
+    "alpha3": "BTN",
+    "alpha2": "BT"
+  },
+  {
+    "country": "Bolivia",
+    "ioc": "BOL",
+    "fifa": "BOL",
+    "alpha3": "BOL",
+    "alpha2": "BO"
+  },
+  {
+    "country": "Caribbean Netherlands",
+    "ioc": "AHO",
+    "fifa": "",
+    "alpha3": "BES",
+    "alpha2": "BQ"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "ioc": "BIH",
+    "fifa": "BIH",
+    "alpha3": "BIH",
+    "alpha2": "BA"
+  },
+  {
+    "country": "Botswana",
+    "ioc": "BOT",
+    "fifa": "BOT",
+    "alpha3": "BWA",
+    "alpha2": "BW"
+  },
+  {
+    "country": "Bouvet Island",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "BVT",
+    "alpha2": "BV"
+  },
+  {
+    "country": "Brazil",
+    "ioc": "BRA",
+    "fifa": "BRA",
+    "alpha3": "BRA",
+    "alpha2": "BR"
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "IOT",
+    "alpha2": "IO"
+  },
+  {
+    "country": "British Virgin Islands",
+    "ioc": "IVB",
+    "fifa": "VGB",
+    "alpha3": "VGB",
+    "alpha2": "VG"
+  },
+  {
+    "country": "Brunei",
+    "ioc": "BRU",
+    "fifa": "BRU",
+    "alpha3": "BRN",
+    "alpha2": "BN"
+  },
+  {
+    "country": "Bulgaria",
+    "ioc": "BUL",
+    "fifa": "BUL",
+    "alpha3": "BGR",
+    "alpha2": "BG"
+  },
+  {
+    "country": "Burkina Faso",
+    "ioc": "BUR",
+    "fifa": "BFA",
+    "alpha3": "BFA",
+    "alpha2": "BF"
+  },
+  {
+    "country": "Burundi",
+    "ioc": "BDI",
+    "fifa": "BDI",
+    "alpha3": "BDI",
+    "alpha2": "BI"
+  },
+  {
+    "country": "Cambodia",
+    "ioc": "CAM",
+    "fifa": "CAM",
+    "alpha3": "KHM",
+    "alpha2": "KH"
+  },
+  {
+    "country": "Cameroon",
+    "ioc": "CMR",
+    "fifa": "CMR",
+    "alpha3": "CMR",
+    "alpha2": "CM"
+  },
+  {
+    "country": "Canada",
+    "ioc": "CAN",
+    "fifa": "CAN",
+    "alpha3": "CAN",
+    "alpha2": "CA"
+  },
+  {
+    "country": "Cape Verde",
+    "ioc": "CPV",
+    "fifa": "CPV",
+    "alpha3": "CPV",
+    "alpha2": "CV"
+  },
+  {
+    "country": "Cayman Islands",
+    "ioc": "CAY",
+    "fifa": "CAY",
+    "alpha3": "CYM",
+    "alpha2": "KY"
+  },
+  {
+    "country": "Central African Republic",
+    "ioc": "CAF",
+    "fifa": "CTA",
+    "alpha3": "CAF",
+    "alpha2": "CF"
+  },
+  {
+    "country": "Chad",
+    "ioc": "CHA",
+    "fifa": "CHA",
+    "alpha3": "TCD",
+    "alpha2": "TD"
+  },
+  {
+    "country": "Chile",
+    "ioc": "CHI",
+    "fifa": "CHI",
+    "alpha3": "CHL",
+    "alpha2": "CL"
+  },
+  {
+    "country": "China, People's Republic of",
+    "ioc": "CHN",
+    "fifa": "CHN",
+    "alpha3": "CHN",
+    "alpha2": "CN"
+  },
+  {
+    "country": "Christmas Island",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "CXR",
+    "alpha2": "CX"
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "CCK",
+    "alpha2": "CC"
+  },
+  {
+    "country": "Colombia",
+    "ioc": "COL",
+    "fifa": "COL",
+    "alpha3": "COL",
+    "alpha2": "CO"
+  },
+  {
+    "country": "Comoros",
+    "ioc": "COM",
+    "fifa": "COM",
+    "alpha3": "COM",
+    "alpha2": "KM"
+  },
+  {
+    "country": "Congo, Democratic Republic of the",
+    "ioc": "COD",
+    "fifa": "COD",
+    "alpha3": "COD",
+    "alpha2": "CD"
+  },
+  {
+    "country": "Congo, Republic of",
+    "ioc": "CGO",
+    "fifa": "CGO",
+    "alpha3": "COG",
+    "alpha2": "CG"
+  },
+  {
+    "country": "Cook Islands",
+    "ioc": "COK",
+    "fifa": "COK",
+    "alpha3": "COK",
+    "alpha2": "CK"
+  },
+  {
+    "country": "Costa Rica",
+    "ioc": "CRC",
+    "fifa": "CRC",
+    "alpha3": "CRI",
+    "alpha2": "CR"
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "ioc": "CIV",
+    "fifa": "CIV",
+    "alpha3": "CIV",
+    "alpha2": "CI"
+  },
+  {
+    "country": "Croatia",
+    "ioc": "CRO",
+    "fifa": "CRO",
+    "alpha3": "HRV",
+    "alpha2": "HR"
+  },
+  {
+    "country": "Cuba",
+    "ioc": "CUB",
+    "fifa": "CUB",
+    "alpha3": "CUB",
+    "alpha2": "CU"
+  },
+  {
+    "country": "Curaçao",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "CUW",
+    "alpha2": "CW"
+  },
+  {
+    "country": "Cyprus",
+    "ioc": "CYP",
+    "fifa": "CYP",
+    "alpha3": "CYP",
+    "alpha2": "CY"
+  },
+  {
+    "country": "Czech Republic",
+    "ioc": "CZE",
+    "fifa": "CZE",
+    "alpha3": "CZE",
+    "alpha2": "CZ"
+  },
+  {
+    "country": "Denmark",
+    "ioc": "DEN",
+    "fifa": "DEN",
+    "alpha3": "DNK",
+    "alpha2": "DK"
+  },
+  {
+    "country": "Djibouti",
+    "ioc": "DJI",
+    "fifa": "DJI",
+    "alpha3": "DJI",
+    "alpha2": "DJ"
+  },
+  {
+    "country": "Dominica",
+    "ioc": "DMA",
+    "fifa": "DMA",
+    "alpha3": "DMA",
+    "alpha2": "DM"
+  },
+  {
+    "country": "Dominican Republic",
+    "ioc": "DOM",
+    "fifa": "DOM",
+    "alpha3": "DOM",
+    "alpha2": "DO"
+  },
+  {
+    "country": "Ecuador",
+    "ioc": "ECU",
+    "fifa": "ECU",
+    "alpha3": "ECU",
+    "alpha2": "EC"
+  },
+  {
+    "country": "Egypt",
+    "ioc": "EGY",
+    "fifa": "EGY",
+    "alpha3": "EGY",
+    "alpha2": "EG"
+  },
+  {
+    "country": "El Salvador",
+    "ioc": "ESA",
+    "fifa": "SLV",
+    "alpha3": "SLV",
+    "alpha2": "SV"
+  },
+  {
+    "country": "England",
+    "ioc": "",
+    "fifa": "ENG",
+    "alpha3": "",
+    "alpha2": ""
+  },
+  {
+    "country": "Equatorial Guinea",
+    "ioc": "GEQ",
+    "fifa": "EQG",
+    "alpha3": "GNQ",
+    "alpha2": "GQ"
+  },
+  {
+    "country": "Eritrea",
+    "ioc": "ERI",
+    "fifa": "ERI",
+    "alpha3": "ERI",
+    "alpha2": "ER"
+  },
+  {
+    "country": "Estonia",
+    "ioc": "EST",
+    "fifa": "EST",
+    "alpha3": "EST",
+    "alpha2": "EE"
+  },
+  {
+    "country": "Ethiopia",
+    "ioc": "ETH",
+    "fifa": "ETH",
+    "alpha3": "ETH",
+    "alpha2": "ET"
+  },
+  {
+    "country": "Falkland Islands",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "FLK",
+    "alpha2": "FK"
+  },
+  {
+    "country": "Faroe Islands",
+    "ioc": "",
+    "fifa": "FRO",
+    "alpha3": "FRO",
+    "alpha2": "FO"
+  },
+  {
+    "country": "Fiji",
+    "ioc": "FIJ",
+    "fifa": "FIJ",
+    "alpha3": "FJI",
+    "alpha2": "FJ"
+  },
+  {
+    "country": "Finland",
+    "ioc": "FIN",
+    "fifa": "FIN",
+    "alpha3": "FIN",
+    "alpha2": "FI"
+  },
+  {
+    "country": "France",
+    "ioc": "FRA",
+    "fifa": "FRA",
+    "alpha3": "FRA",
+    "alpha2": "FR"
+  },
+  {
+    "country": "French Guiana",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "GUF",
+    "alpha2": "GF"
+  },
+  {
+    "country": "French Polynesia",
+    "ioc": "",
+    "fifa": "TAH",
+    "alpha3": "PYF",
+    "alpha2": "PF"
+  },
+  {
+    "country": "French Southern and Antarctic Lands",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "ATF",
+    "alpha2": "TF"
+  },
+  {
+    "country": "Gabon",
+    "ioc": "GAB",
+    "fifa": "GAB",
+    "alpha3": "GAB",
+    "alpha2": "GA"
+  },
+  {
+    "country": "The Gambia",
+    "ioc": "GAM",
+    "fifa": "GAM",
+    "alpha3": "GMB",
+    "alpha2": "GM"
+  },
+  {
+    "country": "Georgia",
+    "ioc": "GEO",
+    "fifa": "GEO",
+    "alpha3": "GEO",
+    "alpha2": "GE"
+  },
+  {
+    "country": "Germany",
+    "ioc": "GER",
+    "fifa": "GER",
+    "alpha3": "DEU",
+    "alpha2": "DE"
+  },
+  {
+    "country": "Ghana",
+    "ioc": "GHA",
+    "fifa": "GHA",
+    "alpha3": "GHA",
+    "alpha2": "GH"
+  },
+  {
+    "country": "Gibraltar",
+    "ioc": "",
+    "fifa": "GIB",
+    "alpha3": "GIB",
+    "alpha2": "GI"
+  },
+  {
+    "country": "Greece",
+    "ioc": "GRE",
+    "fifa": "GRE",
+    "alpha3": "GRC",
+    "alpha2": "GR"
+  },
+  {
+    "country": "Greenland",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "GRL",
+    "alpha2": "GL"
+  },
+  {
+    "country": "Grenada",
+    "ioc": "GRN",
+    "fifa": "GRN",
+    "alpha3": "GRD",
+    "alpha2": "GD"
+  },
+  {
+    "country": "Guadeloupe",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "GLP",
+    "alpha2": "GP"
+  },
+  {
+    "country": "Guam",
+    "ioc": "GUM",
+    "fifa": "GUM",
+    "alpha3": "GUM",
+    "alpha2": "GU"
+  },
+  {
+    "country": "Guatemala",
+    "ioc": "GUA",
+    "fifa": "GUA",
+    "alpha3": "GTM",
+    "alpha2": "GT"
+  },
+  {
+    "country": "Guernsey",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "GGY",
+    "alpha2": "GG"
+  },
+  {
+    "country": "Guinea",
+    "ioc": "GUI",
+    "fifa": "GUI",
+    "alpha3": "GIN",
+    "alpha2": "GN"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "ioc": "GBS",
+    "fifa": "GNB",
+    "alpha3": "GNB",
+    "alpha2": "GW"
+  },
+  {
+    "country": "Guyana",
+    "ioc": "GUY",
+    "fifa": "GUY",
+    "alpha3": "GUY",
+    "alpha2": "GY"
+  },
+  {
+    "country": "Haiti",
+    "ioc": "HAI",
+    "fifa": "HAI",
+    "alpha3": "HTI",
+    "alpha2": "HT"
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "HMD",
+    "alpha2": "HM"
+  },
+  {
+    "country": "Honduras",
+    "ioc": "HON",
+    "fifa": "HON",
+    "alpha3": "HND",
+    "alpha2": "HN"
+  },
+  {
+    "country": "Hong Kong",
+    "ioc": "HKG",
+    "fifa": "HKG",
+    "alpha3": "HKG",
+    "alpha2": "HK"
+  },
+  {
+    "country": "Hungary",
+    "ioc": "HUN",
+    "fifa": "HUN",
+    "alpha3": "HUN",
+    "alpha2": "HU"
+  },
+  {
+    "country": "Iceland",
+    "ioc": "ISL",
+    "fifa": "ISL",
+    "alpha3": "ISL",
+    "alpha2": "IS"
+  },
+  {
+    "country": "India",
+    "ioc": "IND",
+    "fifa": "IND",
+    "alpha3": "IND",
+    "alpha2": "IN"
+  },
+  {
+    "country": "Indonesia",
+    "ioc": "INA",
+    "fifa": "IDN",
+    "alpha3": "IDN",
+    "alpha2": "ID"
+  },
+  {
+    "country": "Iran",
+    "ioc": "IRI",
+    "fifa": "IRN",
+    "alpha3": "IRN",
+    "alpha2": "IR"
+  },
+  {
+    "country": "Iraq",
+    "ioc": "IRQ",
+    "fifa": "IRQ",
+    "alpha3": "IRQ",
+    "alpha2": "IQ"
+  },
+  {
+    "country": "Ireland",
+    "ioc": "IRL",
+    "fifa": "IRL",
+    "alpha3": "IRL",
+    "alpha2": "IE"
+  },
+  {
+    "country": "Isle of Man",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "IMN",
+    "alpha2": "IM"
+  },
+  {
+    "country": "Israel",
+    "ioc": "ISR",
+    "fifa": "ISR",
+    "alpha3": "ISR",
+    "alpha2": "IL"
+  },
+  {
+    "country": "Italy",
+    "ioc": "ITA",
+    "fifa": "ITA",
+    "alpha3": "ITA",
+    "alpha2": "IT"
+  },
+  {
+    "country": "Jamaica",
+    "ioc": "JAM",
+    "fifa": "JAM",
+    "alpha3": "JAM",
+    "alpha2": "JM"
+  },
+  {
+    "country": "Japan",
+    "ioc": "JPN",
+    "fifa": "JPN",
+    "alpha3": "JPN",
+    "alpha2": "JP"
+  },
+  {
+    "country": "Jersey",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "JEY",
+    "alpha2": "JE"
+  },
+  {
+    "country": "Jordan",
+    "ioc": "JOR",
+    "fifa": "JOR",
+    "alpha3": "JOR",
+    "alpha2": "JO"
+  },
+  {
+    "country": "Kazakhstan",
+    "ioc": "KAZ",
+    "fifa": "KAZ",
+    "alpha3": "KAZ",
+    "alpha2": "KZ"
+  },
+  {
+    "country": "Kenya",
+    "ioc": "KEN",
+    "fifa": "KEN",
+    "alpha3": "KEN",
+    "alpha2": "KE"
+  },
+  {
+    "country": "Kiribati",
+    "ioc": "KIR",
+    "fifa": "",
+    "alpha3": "KIR",
+    "alpha2": "KI"
+  },
+  {
+    "country": "Korea, Democratic People's Rep. (North)",
+    "ioc": "PRK",
+    "fifa": "PRK",
+    "alpha3": "PRK",
+    "alpha2": "KP"
+  },
+  {
+    "country": "Korea, Republic of (South)",
+    "ioc": "KOR",
+    "fifa": "KOR",
+    "alpha3": "KOR",
+    "alpha2": "KR"
+  },
+  {
+    "country": "Kuwait",
+    "ioc": "KUW",
+    "fifa": "KUW",
+    "alpha3": "KWT",
+    "alpha2": "KW"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "ioc": "KGZ",
+    "fifa": "KGZ",
+    "alpha3": "KGZ",
+    "alpha2": "KG"
+  },
+  {
+    "country": "Laos",
+    "ioc": "LAO",
+    "fifa": "LAO",
+    "alpha3": "LAO",
+    "alpha2": "LA"
+  },
+  {
+    "country": "Latvia",
+    "ioc": "LAT",
+    "fifa": "LVA",
+    "alpha3": "LVA",
+    "alpha2": "LV"
+  },
+  {
+    "country": "Lebanon",
+    "ioc": "LIB",
+    "fifa": "LBN",
+    "alpha3": "LBN",
+    "alpha2": "LB"
+  },
+  {
+    "country": "Lesotho",
+    "ioc": "LES",
+    "fifa": "LES",
+    "alpha3": "LSO",
+    "alpha2": "LS"
+  },
+  {
+    "country": "Liberia",
+    "ioc": "LBR",
+    "fifa": "LBR",
+    "alpha3": "LBR",
+    "alpha2": "LR"
+  },
+  {
+    "country": "Libya",
+    "ioc": "LBA",
+    "fifa": "LBY",
+    "alpha3": "LBY",
+    "alpha2": "LY"
+  },
+  {
+    "country": "Liechtenstein",
+    "ioc": "LIE",
+    "fifa": "LIE",
+    "alpha3": "LIE",
+    "alpha2": "LI"
+  },
+  {
+    "country": "Lithuania",
+    "ioc": "LTU",
+    "fifa": "LTU",
+    "alpha3": "LTU",
+    "alpha2": "LT"
+  },
+  {
+    "country": "Luxembourg",
+    "ioc": "LUX",
+    "fifa": "LUX",
+    "alpha3": "LUX",
+    "alpha2": "LU"
+  },
+  {
+    "country": "Macau",
+    "ioc": "",
+    "fifa": "MAC",
+    "alpha3": "MAC",
+    "alpha2": "MO"
+  },
+  {
+    "country": "North Macedonia",
+    "ioc": "MKD",
+    "fifa": "MKD",
+    "alpha3": "MKD",
+    "alpha2": "MK"
+  },
+  {
+    "country": "Madagascar",
+    "ioc": "MAD",
+    "fifa": "MAD",
+    "alpha3": "MDG",
+    "alpha2": "MG"
+  },
+  {
+    "country": "Malawi",
+    "ioc": "MAW",
+    "fifa": "MWI",
+    "alpha3": "MWI",
+    "alpha2": "MW"
+  },
+  {
+    "country": "Malaysia",
+    "ioc": "MAS",
+    "fifa": "MAS",
+    "alpha3": "MYS",
+    "alpha2": "MY"
+  },
+  {
+    "country": "Maldives",
+    "ioc": "MDV",
+    "fifa": "MDV",
+    "alpha3": "MDV",
+    "alpha2": "MV"
+  },
+  {
+    "country": "Mali",
+    "ioc": "MLI",
+    "fifa": "MLI",
+    "alpha3": "MLI",
+    "alpha2": "ML"
+  },
+  {
+    "country": "Malta",
+    "ioc": "MLT",
+    "fifa": "MLT",
+    "alpha3": "MLT",
+    "alpha2": "MT"
+  },
+  {
+    "country": "Marshall Islands",
+    "ioc": "MHL",
+    "fifa": "",
+    "alpha3": "MHL",
+    "alpha2": "MH"
+  },
+  {
+    "country": "Martinique",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "MTQ",
+    "alpha2": "MQ"
+  },
+  {
+    "country": "Mauritania",
+    "ioc": "MTN",
+    "fifa": "MTN",
+    "alpha3": "MRT",
+    "alpha2": "MR"
+  },
+  {
+    "country": "Mauritius",
+    "ioc": "MRI",
+    "fifa": "MRI",
+    "alpha3": "MUS",
+    "alpha2": "MU"
+  },
+  {
+    "country": "Mayotte",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "MYT",
+    "alpha2": "YT"
+  },
+  {
+    "country": "Mexico",
+    "ioc": "MEX",
+    "fifa": "MEX",
+    "alpha3": "MEX",
+    "alpha2": "MX"
+  },
+  {
+    "country": "Micronesia, Federated States of",
+    "ioc": "FSM",
+    "fifa": "",
+    "alpha3": "FSM",
+    "alpha2": "FM"
+  },
+  {
+    "country": "Moldova",
+    "ioc": "MDA",
+    "fifa": "MDA",
+    "alpha3": "MDA",
+    "alpha2": "MD"
+  },
+  {
+    "country": "Monaco",
+    "ioc": "MON",
+    "fifa": "",
+    "alpha3": "MCO",
+    "alpha2": "MC"
+  },
+  {
+    "country": "Mongolia",
+    "ioc": "MGL",
+    "fifa": "MNG",
+    "alpha3": "MNG",
+    "alpha2": "MN"
+  },
+  {
+    "country": "Montenegro",
+    "ioc": "MNE",
+    "fifa": "MNE",
+    "alpha3": "MNE",
+    "alpha2": "ME"
+  },
+  {
+    "country": "Montserrat",
+    "ioc": "",
+    "fifa": "MSR",
+    "alpha3": "MSR",
+    "alpha2": "MS"
+  },
+  {
+    "country": "Morocco",
+    "ioc": "MAR",
+    "fifa": "MAR",
+    "alpha3": "MAR",
+    "alpha2": "MA"
+  },
+  {
+    "country": "Mozambique",
+    "ioc": "MOZ",
+    "fifa": "MOZ",
+    "alpha3": "MOZ",
+    "alpha2": "MZ"
+  },
+  {
+    "country": "Myanmar",
+    "ioc": "MYA",
+    "fifa": "MYA",
+    "alpha3": "MMR",
+    "alpha2": "MM"
+  },
+  {
+    "country": "Namibia",
+    "ioc": "NAM",
+    "fifa": "NAM",
+    "alpha3": "NAM",
+    "alpha2": "NA"
+  },
+  {
+    "country": "Nauru",
+    "ioc": "NRU",
+    "fifa": "",
+    "alpha3": "NRU",
+    "alpha2": "NR"
+  },
+  {
+    "country": "Nepal",
+    "ioc": "NEP",
+    "fifa": "NEP",
+    "alpha3": "NPL",
+    "alpha2": "NP"
+  },
+  {
+    "country": "Netherlands",
+    "ioc": "NED",
+    "fifa": "NED",
+    "alpha3": "NLD",
+    "alpha2": "NL"
+  },
+  {
+    "country": "New Caledonia",
+    "ioc": "",
+    "fifa": "NCL",
+    "alpha3": "NCL",
+    "alpha2": "NC"
+  },
+  {
+    "country": "New Zealand",
+    "ioc": "NZL",
+    "fifa": "NZL",
+    "alpha3": "NZL",
+    "alpha2": "NZ"
+  },
+  {
+    "country": "Nicaragua",
+    "ioc": "NCA",
+    "fifa": "NCA",
+    "alpha3": "NIC",
+    "alpha2": "NI"
+  },
+  {
+    "country": "Niger",
+    "ioc": "NIG",
+    "fifa": "NIG",
+    "alpha3": "NER",
+    "alpha2": "NE"
+  },
+  {
+    "country": "Nigeria",
+    "ioc": "NGR",
+    "fifa": "NGA",
+    "alpha3": "NGA",
+    "alpha2": "NG"
+  },
+  {
+    "country": "Niue",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "NIU",
+    "alpha2": "NU"
+  },
+  {
+    "country": "Norfolk Island",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "NFK",
+    "alpha2": "NF"
+  },
+  {
+    "country": "Northern Ireland",
+    "ioc": "",
+    "fifa": "NIR",
+    "alpha3": "",
+    "alpha2": "MK"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "MNP",
+    "alpha2": "MP"
+  },
+  {
+    "country": "Norway",
+    "ioc": "NOR",
+    "fifa": "NOR",
+    "alpha3": "NOR",
+    "alpha2": "NO"
+  },
+  {
+    "country": "Oman",
+    "ioc": "OMA",
+    "fifa": "OMA",
+    "alpha3": "OMN",
+    "alpha2": "OM"
+  },
+  {
+    "country": "Pakistan",
+    "ioc": "PAK",
+    "fifa": "PAK",
+    "alpha3": "PAK",
+    "alpha2": "PK"
+  },
+  {
+    "country": "Palau",
+    "ioc": "PLW",
+    "fifa": "",
+    "alpha3": "PLW",
+    "alpha2": "PW"
+  },
+  {
+    "country": "Palestinian Authority",
+    "ioc": "PLE",
+    "fifa": "PLE",
+    "alpha3": "PSE",
+    "alpha2": "PS"
+  },
+  {
+    "country": "Panama",
+    "ioc": "PAN",
+    "fifa": "PAN",
+    "alpha3": "PAN",
+    "alpha2": "PA"
+  },
+  {
+    "country": "Papua New Guinea",
+    "ioc": "PNG",
+    "fifa": "PNG",
+    "alpha3": "PNG",
+    "alpha2": "PG"
+  },
+  {
+    "country": "Paraguay",
+    "ioc": "PAR",
+    "fifa": "PAR",
+    "alpha3": "PRY",
+    "alpha2": "PY"
+  },
+  {
+    "country": "Peru",
+    "ioc": "PER",
+    "fifa": "PER",
+    "alpha3": "PER",
+    "alpha2": "PE"
+  },
+  {
+    "country": "Philippines",
+    "ioc": "PHI",
+    "fifa": "PHI",
+    "alpha3": "PHL",
+    "alpha2": "PH"
+  },
+  {
+    "country": "Pitcairn Islands",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "PCN",
+    "alpha2": "PN"
+  },
+  {
+    "country": "Poland",
+    "ioc": "POL",
+    "fifa": "POL",
+    "alpha3": "POL",
+    "alpha2": "PL"
+  },
+  {
+    "country": "Portugal",
+    "ioc": "POR",
+    "fifa": "POR",
+    "alpha3": "PRT",
+    "alpha2": "PT"
+  },
+  {
+    "country": "Puerto Rico",
+    "ioc": "PUR",
+    "fifa": "PUR",
+    "alpha3": "PRI",
+    "alpha2": "PR"
+  },
+  {
+    "country": "Qatar",
+    "ioc": "QAT",
+    "fifa": "QAT",
+    "alpha3": "QAT",
+    "alpha2": "QA"
+  },
+  {
+    "country": "Réunion",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "REU",
+    "alpha2": "RE"
+  },
+  {
+    "country": "Romania",
+    "ioc": "ROU",
+    "fifa": "ROU",
+    "alpha3": "ROU",
+    "alpha2": "RO"
+  },
+  {
+    "country": "Russia",
+    "ioc": "RUS",
+    "fifa": "RUS",
+    "alpha3": "RUS",
+    "alpha2": "RU"
+  },
+  {
+    "country": "Rwanda",
+    "ioc": "RWA",
+    "fifa": "RWA",
+    "alpha3": "RWA",
+    "alpha2": "RW"
+  },
+  {
+    "country": "Saint Barthélemy",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "BLM",
+    "alpha2": "BL"
+  },
+  {
+    "country": "Saint Helena",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "SHN",
+    "alpha2": "SH"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "ioc": "SKN",
+    "fifa": "SKN",
+    "alpha3": "KNA",
+    "alpha2": "KN"
+  },
+  {
+    "country": "Saint Lucia",
+    "ioc": "LCA",
+    "fifa": "LCA",
+    "alpha3": "LCA",
+    "alpha2": "LC"
+  },
+  {
+    "country": "Saint Martin (French part)",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "MAF",
+    "alpha2": "MF"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "SPM",
+    "alpha2": "PM"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "ioc": "VIN",
+    "fifa": "VIN",
+    "alpha3": "VCT",
+    "alpha2": "VC"
+  },
+  {
+    "country": "Samoa",
+    "ioc": "SAM",
+    "fifa": "SAM",
+    "alpha3": "WSM",
+    "alpha2": "WS"
+  },
+  {
+    "country": "San Marino",
+    "ioc": "SMR",
+    "fifa": "SMR",
+    "alpha3": "SMR",
+    "alpha2": "SM"
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "ioc": "STP",
+    "fifa": "STP",
+    "alpha3": "STP",
+    "alpha2": "ST"
+  },
+  {
+    "country": "Saudi Arabia",
+    "ioc": "KSA",
+    "fifa": "KSA",
+    "alpha3": "SAU",
+    "alpha2": "SA"
+  },
+  {
+    "country": "Scotland",
+    "ioc": "",
+    "fifa": "SCO",
+    "alpha3": "",
+    "alpha2": ""
+  },
+  {
+    "country": "Senegal",
+    "ioc": "SEN",
+    "fifa": "SEN",
+    "alpha3": "SEN",
+    "alpha2": "SN"
+  },
+  {
+    "country": "Serbia",
+    "ioc": "SRB",
+    "fifa": "SRB",
+    "alpha3": "SRB",
+    "alpha2": "RS"
+  },
+  {
+    "country": "Seychelles",
+    "ioc": "SEY",
+    "fifa": "SEY",
+    "alpha3": "SYC",
+    "alpha2": "SC"
+  },
+  {
+    "country": "Sierra Leone",
+    "ioc": "SLE",
+    "fifa": "SLE",
+    "alpha3": "SLE",
+    "alpha2": "SL"
+  },
+  {
+    "country": "Singapore",
+    "ioc": "SGP",
+    "fifa": "SIN",
+    "alpha3": "SGP",
+    "alpha2": "SG"
+  },
+  {
+    "country": "Sint Maarten (Dutch part)",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "SXM",
+    "alpha2": "SX"
+  },
+  {
+    "country": "Slovakia",
+    "ioc": "SVK",
+    "fifa": "SVK",
+    "alpha3": "SVK",
+    "alpha2": "SK"
+  },
+  {
+    "country": "Slovenia",
+    "ioc": "SLO",
+    "fifa": "SVN",
+    "alpha3": "SVN",
+    "alpha2": "SI"
+  },
+  {
+    "country": "Solomon Islands",
+    "ioc": "SOL",
+    "fifa": "SOL",
+    "alpha3": "SLB",
+    "alpha2": "SB"
+  },
+  {
+    "country": "Somalia",
+    "ioc": "SOM",
+    "fifa": "SOM",
+    "alpha3": "SOM",
+    "alpha2": "SO"
+  },
+  {
+    "country": "South Africa",
+    "ioc": "RSA",
+    "fifa": "RSA",
+    "alpha3": "ZAF",
+    "alpha2": "ZA"
+  },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "SGS",
+    "alpha2": "GS"
+  },
+  {
+    "country": "Spain",
+    "ioc": "ESP",
+    "fifa": "ESP",
+    "alpha3": "ESP",
+    "alpha2": "ES"
+  },
+  {
+    "country": "Sri Lanka",
+    "ioc": "SRI",
+    "fifa": "SRI",
+    "alpha3": "LKA",
+    "alpha2": "LK"
+  },
+  {
+    "country": "Sudan",
+    "ioc": "SUD",
+    "fifa": "SDN",
+    "alpha3": "SDN",
+    "alpha2": "SD"
+  },
+  {
+    "country": "Suriname",
+    "ioc": "SUR",
+    "fifa": "SUR",
+    "alpha3": "SUR",
+    "alpha2": "SR"
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "SJM",
+    "alpha2": "SJ"
+  },
+  {
+    "country": "Eswatini",
+    "ioc": "SWZ",
+    "fifa": "SWZ",
+    "alpha3": "SWZ",
+    "alpha2": "SZ"
+  },
+  {
+    "country": "Sweden",
+    "ioc": "SWE",
+    "fifa": "SWE",
+    "alpha3": "SWE",
+    "alpha2": "SE"
+  },
+  {
+    "country": "Switzerland",
+    "ioc": "SUI",
+    "fifa": "SUI",
+    "alpha3": "CHE",
+    "alpha2": "CH"
+  },
+  {
+    "country": "Syria",
+    "ioc": "SYR",
+    "fifa": "SYR",
+    "alpha3": "SYR",
+    "alpha2": "SY"
+  },
+  {
+    "country": "Republic of China (Taiwan)",
+    "ioc": "TPE",
+    "fifa": "TPE",
+    "alpha3": "TWN",
+    "alpha2": "TW"
+  },
+  {
+    "country": "Tajikistan",
+    "ioc": "TJK",
+    "fifa": "TJK",
+    "alpha3": "TJK",
+    "alpha2": "TJ"
+  },
+  {
+    "country": "Tanzania",
+    "ioc": "TAN",
+    "fifa": "TAN",
+    "alpha3": "TZA",
+    "alpha2": "TZ"
+  },
+  {
+    "country": "Thailand",
+    "ioc": "THA",
+    "fifa": "THA",
+    "alpha3": "THA",
+    "alpha2": "TH"
+  },
+  {
+    "country": "Timor-Leste",
+    "ioc": "TLS",
+    "fifa": "TLS",
+    "alpha3": "TLS",
+    "alpha2": "TL"
+  },
+  {
+    "country": "Togo",
+    "ioc": "TOG",
+    "fifa": "TOG",
+    "alpha3": "TGO",
+    "alpha2": "TG"
+  },
+  {
+    "country": "Tokelau",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "TKL",
+    "alpha2": "TK"
+  },
+  {
+    "country": "Tonga",
+    "ioc": "TGA",
+    "fifa": "TGA",
+    "alpha3": "TON",
+    "alpha2": "TO"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "ioc": "TTO",
+    "fifa": "TRI",
+    "alpha3": "TTO",
+    "alpha2": "TT"
+  },
+  {
+    "country": "Tunisia",
+    "ioc": "TUN",
+    "fifa": "TUN",
+    "alpha3": "TUN",
+    "alpha2": "TN"
+  },
+  {
+    "country": "Turkey",
+    "ioc": "TUR",
+    "fifa": "TUR",
+    "alpha3": "TUR",
+    "alpha2": "TR"
+  },
+  {
+    "country": "Turkmenistan",
+    "ioc": "TKM",
+    "fifa": "TKM",
+    "alpha3": "TKM",
+    "alpha2": "TM"
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "ioc": "",
+    "fifa": "TCA",
+    "alpha3": "TCA",
+    "alpha2": "TC"
+  },
+  {
+    "country": "Tuvalu",
+    "ioc": "TUV",
+    "fifa": "",
+    "alpha3": "TUV",
+    "alpha2": "TV"
+  },
+  {
+    "country": "Uganda",
+    "ioc": "UGA",
+    "fifa": "UGA",
+    "alpha3": "UGA",
+    "alpha2": "UG"
+  },
+  {
+    "country": "Ukraine",
+    "ioc": "UKR",
+    "fifa": "UKR",
+    "alpha3": "UKR",
+    "alpha2": "UA"
+  },
+  {
+    "country": "United Arab Emirates",
+    "ioc": "UAE",
+    "fifa": "UAE",
+    "alpha3": "ARE",
+    "alpha2": "AE"
+  },
+  {
+    "country": "United Kingdom",
+    "ioc": "GBR",
+    "fifa": "",
+    "alpha3": "GBR",
+    "alpha2": "GB"
+  },
+  {
+    "country": "United States",
+    "ioc": "USA",
+    "fifa": "USA",
+    "alpha3": "USA",
+    "alpha2": "US"
+  },
+  {
+    "country": "United States Minor Outlying Islands",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "UMI",
+    "alpha2": "UM"
+  },
+  {
+    "country": "United States Virgin Islands",
+    "ioc": "ISV",
+    "fifa": "VIR",
+    "alpha3": "VIR",
+    "alpha2": "VI"
+  },
+  {
+    "country": "Uruguay",
+    "ioc": "URU",
+    "fifa": "URU",
+    "alpha3": "URY",
+    "alpha2": "UY"
+  },
+  {
+    "country": "Uzbekistan",
+    "ioc": "UZB",
+    "fifa": "UZB",
+    "alpha3": "UZB",
+    "alpha2": "UZ"
+  },
+  {
+    "country": "Vanuatu",
+    "ioc": "VAN",
+    "fifa": "VAN",
+    "alpha3": "VUT",
+    "alpha2": "VU"
+  },
+  {
+    "country": "Vatican City State",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "VAT",
+    "alpha2": "VA"
+  },
+  {
+    "country": "Venezuela",
+    "ioc": "VEN",
+    "fifa": "VEN",
+    "alpha3": "VEN",
+    "alpha2": "VE"
+  },
+  {
+    "country": "Vietnam",
+    "ioc": "VIE",
+    "fifa": "VIE",
+    "alpha3": "VNM",
+    "alpha2": "VN"
+  },
+  {
+    "country": "Wales",
+    "ioc": "",
+    "fifa": "WAL",
+    "alpha3": "",
+    "alpha2": ""
+  },
+  {
+    "country": "Wallis and Futuna",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "WLF",
+    "alpha2": "WF"
+  },
+  {
+    "country": "Western Sahara",
+    "ioc": "",
+    "fifa": "",
+    "alpha3": "ESH",
+    "alpha2": "EH"
+  },
+  {
+    "country": "Yemen",
+    "ioc": "YEM",
+    "fifa": "YEM",
+    "alpha3": "YEM",
+    "alpha2": "YE"
+  },
+  {
+    "country": "Zambia",
+    "ioc": "ZAM",
+    "fifa": "ZAM",
+    "alpha3": "ZMB",
+    "alpha2": "ZM"
+  },
+  {
+    "country": "Zimbabwe",
+    "ioc": "ZIM",
+    "fifa": "ZIM",
+    "alpha3": "ZWE",
+    "alpha2": "ZW"
+  }
+]
