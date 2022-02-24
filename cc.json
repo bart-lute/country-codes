@@ -1400,6 +1400,13 @@
     "alpha2": "RS"
   },
   {
+    "country": "Serbia and Montenegro",
+    "ioc": "SCG",
+    "fifa": "SCG",
+    "alpha3": "SCG",
+    "alpha2": "CS"
+  },
+  {
     "country": "Seychelles",
     "ioc": "SEY",
     "fifa": "SEY",
@@ -1416,6 +1423,13 @@
   {
     "country": "Singapore",
     "ioc": "SGP",
+    "fifa": "SIN",
+    "alpha3": "SGP",
+    "alpha2": "SG"
+  },
+  {
+    "country": "Singapore",
+    "ioc": "SIN",
     "fifa": "SIN",
     "alpha3": "SGP",
     "alpha2": "SG"
